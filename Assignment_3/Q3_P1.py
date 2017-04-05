@@ -25,8 +25,8 @@ raw_df.head(2)
 
 # drop unnecessary columns
 col_list = ['home', 'innings1' , 'innings2', 'innings1_runs', 'innings2_runs']
-cut_df = raw_df[col_list]
-cut_df.head(4)
+raw_df = raw_df[col_list]
+raw_df.head(4)
 
 
 # In[20]:
@@ -43,28 +43,29 @@ def choose_col(row):
 
 # drop NaNs and add Score column
 # new_df.info()
-cut_df['Score'] = cut_df.apply(choose_col, axis=1)
-cut_df.head(4)
+raw_df['Score'] = raw_df.apply(choose_col, axis=1)
+raw_df.head(4)
 
 
 # In[22]:
 
 # drop unnecessary columns
 col_list = ['home', 'Score']
-new_df= cut_df[col_list]
-new_df.head(3)
+raw_df= raw_df[col_list]
+raw_df.head(3)
 
 
 # In[23]:
 
 # get average scores of each team
-out_df = new_df.groupby(['home'], as_index=False).mean()
+out_df = raw_df.groupby(['home'], as_index=False).mean()
 out_df.head(4)
 
 
 # In[24]:
 
 out_df.to_csv('output_csv/q3p1_output.csv',index=False,header=True)
+print(out_df.head(3))
 
 
 # In[ ]:

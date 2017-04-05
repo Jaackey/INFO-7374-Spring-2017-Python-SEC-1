@@ -79,6 +79,7 @@ output_df3.tail(3)
 
 # save to csv
 output_df3.to_csv('output_csv/q1p1_output.csv',index=True,header=True,index_label='MONTH')
+print(output_df3.head(3))
 
 
 # In[ ]:

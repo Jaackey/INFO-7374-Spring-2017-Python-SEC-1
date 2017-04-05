@@ -89,6 +89,7 @@ df4
 
 # save to csv
 df4.to_csv('output_csv/q1p2_output.csv',index=False,header=True)
+print(df4.head(3))
 
 
 # In[ ]:

@@ -40,6 +40,7 @@ output_df.head(4)
 
 # save to csv
 output_df.to_csv('output_csv/q2p1_output.csv',index=False,header=True)
+print(output_df.head(3))
 
 
 # In[ ]:

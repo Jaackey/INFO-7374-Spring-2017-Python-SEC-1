@@ -144,6 +144,7 @@ df.head(4)
 
 # save to csv
 df.to_csv('output_csv/q4p1_output.csv',index=False,header=True)
+print(df.head(3))
 
 
 # In[ ]:

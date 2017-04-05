@@ -65,6 +65,7 @@ out_df.head(5)
 
 # save to csv
 out_df.to_csv('output_csv/q2p2_output.csv',index=False,header=True)
+print(out_df.head(3))
 
 
 # In[ ]:
