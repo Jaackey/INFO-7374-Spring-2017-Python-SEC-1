@@ -15,22 +15,22 @@
 import pandas as pd
 
 
-# In[44]:
+# In[2]:
 
 # maintain needed columns and drop NaNs
 df = pd.read_csv('Data/movies_awards.csv')
 col_list = ['imdbID', 'Awards']
-df = df.dropna()
 df = df[col_list]
+df = df.dropna()
 df.head(4)
 
 
-# In[45]:
+# In[3]:
 
 import re    
 
 
-# In[46]:
+# In[4]:
 
 # get number of wins. name can be 'Oscar', 'Prime', etc.
 def find_famous_wins(name, row):
@@ -42,7 +42,7 @@ def find_famous_wins(name, row):
         return '0'
 
 
-# In[47]:
+# In[5]:
 
 # get number of Nominations. name can be 'Oscar', 'Prime', etc.
 def find_famous_Noms(name, row):
@@ -54,11 +54,11 @@ def find_famous_Noms(name, row):
         return '0'
 
 
-# In[48]:
+# In[6]:
 
 # get total of wins. total = other_wins + Oscar_wins + Prime_wins + ...
 def find_all_wins(row):
-    pattern = r'(\d+) wins'
+    pattern = r'(\d+) win'
     famous_wins = int(row['Prime_Won'])+int(row['Oscar_Won'])+int(row['Golden_Globe_Won'])+int(row['BAFTA_Won'])
     nums = re.findall(pattern, row['Awards'])
     if len(nums)>0:
@@ -67,11 +67,11 @@ def find_all_wins(row):
         return famous_wins
 
 
-# In[49]:
+# In[7]:
 
 # get total of nominations. total = other_nominations + Oscar_nominations + Prime_nominations + ...
 def find_all_noms(row):
-    pattern = r'(\d+) nominations'
+    pattern = r'(\d+) nomination'
     famous_noms = int(row['Prime_Nominated'])+int(row['Oscar_Nominated'])+int(row['Golden_Globe_Nominated'])+int(row['BAFTA_Nominated'])
     nums = re.findall(pattern, row['Awards'])
     if len(nums)>0:
@@ -80,67 +80,67 @@ def find_all_noms(row):
         return famous_noms
 
 
-# In[50]:
+# In[8]:
 
 df['Prime_Won'] = df.apply(lambda row: find_famous_wins('Prime', row['Awards']), axis=1)
 df.head(4)
 
 
-# In[51]:
+# In[9]:
 
 df['Oscar_Won'] = df.apply(lambda row: find_famous_wins('Oscar', row['Awards']), axis=1)
 df.head(4)
 
 
-# In[52]:
+# In[10]:
 
 df['Golden_Globe_Won'] = df.apply(lambda row: find_famous_wins('Golden', row['Awards']), axis=1)
 df.head(4)
 
 
-# In[53]:
+# In[11]:
 
 df['BAFTA_Won'] = df.apply(lambda row: find_famous_wins('BAFTA', row['Awards']), axis=1)
 df.head(4)
 
 
-# In[54]:
+# In[12]:
 
 df['Prime_Nominated'] = df.apply(lambda row: find_famous_Noms('Prime', row['Awards']), axis=1)
 df.head(4)
 
 
-# In[55]:
+# In[13]:
 
 df['Oscar_Nominated'] = df.apply(lambda row: find_famous_Noms('Oscar', row['Awards']), axis=1)
 df.head(4)
 
 
-# In[56]:
+# In[14]:
 
 df['Golden_Globe_Nominated'] = df.apply(lambda row: find_famous_Noms('Golden', row['Awards']), axis=1)
 df.head(4)
 
 
-# In[57]:
+# In[15]:
 
 df['BAFTA_Nominated'] = df.apply(lambda row: find_famous_Noms('BAFTA', row['Awards']), axis=1)
 df.head(4)
 
 
-# In[58]:
+# In[16]:
 
 # After caculated Special wins and nominations, add those to total wins and nominations
 df['Total_Wins'] = df.apply(find_all_wins, axis=1)
 
 
-# In[59]:
+# In[17]:
 
 df['Total_Nominations'] = df.apply(find_all_noms, axis=1)
 df.head(4)
 
 
-# In[60]:
+# In[18]:
 
 # save to csv
 df.to_csv('output_csv/q4p1_output.csv',index=False,header=True)

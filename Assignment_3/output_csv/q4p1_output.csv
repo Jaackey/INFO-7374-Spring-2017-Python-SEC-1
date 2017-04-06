@@ -1,114 +1,681 @@
 imdbID,Awards,Prime_Won,Oscar_Won,Golden_Globe_Won,BAFTA_Won,Prime_Nominated,Oscar_Nominated,Golden_Globe_Nominated,BAFTA_Nominated,Total_Wins,Total_Nominations
+tt0210930,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt0212513,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0235280,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0240149,3 wins & 2 nominations.,0,0,0,0,0,0,0,0,3,2
+tt0243904,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
 tt0250224,5 nominations.,0,0,0,0,0,0,0,0,0,5
 tt0254099,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
 tt0258068,Nominated for 1 Oscar. Another 13 wins & 13 nominations.,0,0,0,0,0,1,0,0,13,14
+tt0263017,5 wins & 4 nominations.,0,0,0,0,0,0,0,0,5,4
 tt0272338,Nominated for 1 Golden Globe. Another 14 wins & 34 nominations.,0,0,0,0,0,0,1,0,14,35
+tt0274768,3 wins & 2 nominations.,0,0,0,0,0,0,0,0,3,2
+tt0276639,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt0280030,5 nominations.,0,0,0,0,0,0,0,0,0,5
-tt0280477,1 win & 2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0280477,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt0281447,22 wins & 44 nominations.,0,0,0,0,0,0,0,0,22,44
+tt0281954,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt0282171,1 win & 8 nominations.,0,0,0,0,0,0,0,0,1,8
 tt0283111,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0283941,6 wins & 1 nomination.,0,0,0,0,0,0,0,0,6,1
+tt0285331,Won 2 Golden Globes. Another 68 wins & 201 nominations.,0,0,2,0,0,0,0,0,70,201
+tt0285333,Won 1 Golden Globe. Another 31 wins & 143 nominations.,0,0,1,0,0,0,0,0,32,143
+tt0285351,Nominated for 4 Primetime Emmys. Another 16 nominations.,0,0,0,0,4,0,0,0,0,20
+tt0285356,3 wins & 2 nominations.,0,0,0,0,0,0,0,0,3,2
+tt0286378,3 wins & 6 nominations.,0,0,0,0,0,0,0,0,3,6
+tt0288739,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt0290015,6 wins & 4 nominations.,0,0,0,0,0,0,0,0,6,4
 tt0291502,7 wins & 6 nominations.,0,0,0,0,0,0,0,0,7,6
+tt0292414,9 wins & 30 nominations.,0,0,0,0,0,0,0,0,9,30
+tt0292800,Won 1 Primetime Emmy. Another 1 win & 6 nominations.,1,0,0,0,0,0,0,0,2,6
+tt0294362,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt0295297,Nominated for 3 BAFTA Film Awards. Another 11 wins & 39 nominations.,0,0,0,0,0,0,0,3,11,42
+tt0295613,6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt0296307,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
 tt0297181,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
 tt0298130,14 wins & 11 nominations.,0,0,0,0,0,0,0,0,14,11
+tt0298617,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0299547,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt0303421,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0303430,3 wins & 3 nominations.,0,0,0,0,0,0,0,0,3,3
+tt0303635,Nominated for 1 Golden Globe. Another 2 wins & 14 nominations.,0,0,0,0,0,0,1,0,2,15
+tt0304649,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt0307716,Nominated for 1 Primetime Emmy. Another 1 nomination.,0,0,0,0,1,0,0,0,0,2
+tt0307734,3 wins & 1 nomination.,0,0,0,0,0,0,0,0,3,1
+tt0309122,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0309125,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0311087,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt0313025,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0313038,9 wins & 8 nominations.,0,0,0,0,0,0,0,0,9,8
+tt0315722,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0316602,1 win.,0,0,0,0,0,0,0,0,1,0
 tt0317842,15 wins & 4 nominations.,0,0,0,0,0,0,0,0,15,4
+tt0318038,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0319935,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0319938,3 wins & 6 nominations.,0,0,0,0,0,0,0,0,3,6
+tt0320808,8 wins & 8 nominations.,0,0,0,0,0,0,0,0,8,8
+tt0320809,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0324681,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0326731,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0336052,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt0336910,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt0337534,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt0337714,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0338434,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt0340251,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt0340427,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0344195,15 nominations.,0,0,0,0,0,0,0,0,0,15
+tt0346091,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt0351031,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt0354262,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0360243,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0380083,7 wins & 7 nominations.,0,0,0,0,0,0,0,0,7,7
+tt0383070,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0411465,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0439924,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0457440,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0472578,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0487835,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0841930,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt0896680,4 wins & 9 nominations.,0,0,0,0,0,0,0,0,4,9
+tt1383715,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2777562,1 win.,0,0,0,0,0,0,0,0,1,0
 tt0167260,Won 11 Oscars. Another 174 wins & 113 nominations.,0,11,0,0,0,0,0,0,185,113
 tt0191133,4 wins & 11 nominations.,0,0,0,0,0,0,0,0,4,11
 tt0285823,3 wins & 4 nominations.,0,0,0,0,0,0,0,0,3,4
-tt0289944,1 win & 5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt0289944,1 win & 5 nominations.,0,0,0,0,0,0,0,0,1,5
 tt0306047,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
-tt0314197,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt0325258,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt0314197,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0317910,Won 1 Oscar. Another 11 wins & 14 nominations.,0,1,0,0,0,0,0,0,12,14
+tt0320037,Won 3 Primetime Emmys. Another 44 nominations.,3,0,0,0,0,0,0,0,3,44
+tt0325258,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
 tt0327437,2 nominations.,0,0,0,0,0,0,0,0,0,2
-tt0332375,1 win & 6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt0328034,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0329575,Nominated for 7 Oscars. Another 6 wins & 36 nominations.,0,0,0,0,0,7,0,0,6,43
+tt0332375,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt0337639,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0338574,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0346947,2 wins.,0,0,0,0,0,0,0,0,2,0
 tt0348593,2 wins & 7 nominations.,0,0,0,0,0,0,0,0,2,7
+tt0348904,14 wins & 22 nominations.,0,0,0,0,0,0,0,0,14,22
+tt0353168,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0354463,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt0357388,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0362404,12 nominations.,0,0,0,0,0,0,0,0,0,12
+tt0363307,5 wins & 34 nominations.,0,0,0,0,0,0,0,0,5,34
+tt0364146,Nominated for 1 Primetime Emmy. Another 1 win & 2 nominations.,0,0,0,0,1,0,0,0,1,3
+tt0365974,9 nominations.,0,0,0,0,0,0,0,0,0,9
+tt0367273,8 nominations.,0,0,0,0,0,0,0,0,0,8
+tt0367276,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0367298,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0367854,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0368026,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0369910,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt0372167,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0373474,1 win & 5 nominations.,0,0,0,0,0,0,0,0,1,5
+tt0374360,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt0374900,10 wins & 22 nominations.,0,0,0,0,0,0,0,0,10,22
+tt0377066,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt0378194,Nominated for 2 Golden Globes. Another 21 wins & 72 nominations.,0,0,0,0,0,0,2,0,21,74
+tt0382395,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0382898,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
+tt0383460,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0383846,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0385373,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt0385374,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt0385664,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0385842,2 wins & 10 nominations.,0,0,0,0,0,0,0,0,2,10
+tt0386907,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0387541,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt0387564,8 wins & 10 nominations.,0,0,0,0,0,0,0,0,8,10
+tt0387714,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
 tt0388838,2 wins & 8 nominations.,0,0,0,0,0,0,0,0,2,8
+tt0389121,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt0390205,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0395378,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0395560,6 wins & 2 nominations.,0,0,0,0,0,0,0,0,6,2
+tt0397756,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0397800,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0398408,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt0398883,14 wins & 17 nominations.,0,0,0,0,0,0,0,0,14,17
+tt0400973,3 wins & 7 nominations.,0,0,0,0,0,0,0,0,3,7
+tt0401224,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0406960,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0413053,5 wins & 2 nominations.,0,0,0,0,0,0,0,0,5,2
+tt0413527,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0415399,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0417737,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0418141,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0420318,13 wins & 7 nominations.,0,0,0,0,0,0,0,0,13,7
+tt0424593,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0425271,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0426893,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0428517,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt0429149,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt0429293,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
+tt0429301,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt0432649,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0432967,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0433458,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0435926,1 win & 15 nominations.,0,0,0,0,0,0,0,0,1,15
+tt0436374,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt0439341,1 win & 5 nominations.,0,0,0,0,0,0,0,0,1,5
+tt0439342,3 wins & 3 nominations.,0,0,0,0,0,0,0,0,3,3
+tt0440788,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0441970,5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt0447435,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt0447584,6 wins & 6 nominations.,0,0,0,0,0,0,0,0,6,6
+tt0448948,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0455373,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0465778,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0473394,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0498109,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0764672,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt0774034,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0784828,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0877538,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0910586,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt0956042,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1182335,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1734537,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt4354698,1 win.,0,0,0,0,0,0,0,0,1,0
 tt0121766,Nominated for 1 Oscar. Another 25 wins & 51 nominations.,0,0,0,0,0,1,0,0,25,52
+tt0216584,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0229881,8 wins & 20 nominations.,0,0,0,0,0,0,0,0,8,20
 tt0257516,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt0340163,4 nominations.,0,0,0,0,0,0,0,0,0,4
 tt0365885,5 wins & 12 nominations.,0,0,0,0,0,0,0,0,5,12
-tt0380389,1 win & 6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt0368413,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt0380389,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt0388727,7 wins & 5 nominations.,0,0,0,0,0,0,0,0,7,5
+tt0390614,4 nominations.,0,0,0,0,0,0,0,0,0,4
 tt0400525,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt0401855,2 wins & 6 nominations.,0,0,0,0,0,0,0,0,2,6
-tt0403508,1 win & 14 nominations.,0,0,0,0,0,0,0,0,0,14
+tt0403508,1 win & 14 nominations.,0,0,0,0,0,0,0,0,1,14
 tt0407304,Nominated for 3 Oscars. Another 13 wins & 40 nominations.,0,0,0,0,0,3,0,0,13,43
-tt0430357,1 win & 9 nominations.,0,0,0,0,0,0,0,0,0,9
+tt0420982,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt0424699,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0430357,1 win & 9 nominations.,0,0,0,0,0,0,0,0,1,9
 tt0430912,8 wins & 6 nominations.,0,0,0,0,0,0,0,0,8,6
+tt0432236,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt0435625,8 wins & 17 nominations.,0,0,0,0,0,0,0,0,8,17
+tt0435937,4 wins & 1 nomination.,0,0,0,0,0,0,0,0,4,1
+tt0436569,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0437696,4 wins & 4 nominations.,0,0,0,0,0,0,0,0,4,4
+tt0439774,5 wins.,0,0,0,0,0,0,0,0,5,0
+tt0440981,27 wins & 31 nominations.,0,0,0,0,0,0,0,0,27,31
+tt0441633,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt0441793,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0441919,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt0448962,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt0450077,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt0450979,5 wins.,0,0,0,0,0,0,0,0,5,0
 tt0452594,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
-tt0454082,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt0453979,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt0454082,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0454883,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
 tt0454921,Nominated for 1 Oscar. Another 11 wins & 24 nominations.,0,0,0,0,0,1,0,0,11,25
+tt0455467,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0456207,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt0463850,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0463953,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0464768,21 nominations.,0,0,0,0,0,0,0,0,0,21
+tt0465315,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt0465346,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt0470642,1 win.,0,0,0,0,0,0,0,0,1,0
 tt0473488,7 wins & 9 nominations.,0,0,0,0,0,0,0,0,7,9
-tt0499603,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt0379976,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt0475119,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0476078,3 wins & 32 nominations.,0,0,0,0,0,0,0,0,3,32
+tt0476265,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0478409,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt0478834,4 wins & 6 nominations.,0,0,0,0,0,0,0,0,4,6
+tt0479219,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt0482109,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt0483716,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0484211,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt0484334,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0485241,7 wins & 7 nominations.,0,0,0,0,0,0,0,0,7,7
+tt0486062,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt0486545,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0486555,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0487887,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0491587,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0491877,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0496424,Won 6 Golden Globes. Another 80 wins & 310 nominations.,0,0,6,0,0,0,0,0,86,310
+tt0499262,18 wins & 7 nominations.,0,0,0,0,0,0,0,0,18,7
+tt0499603,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0758789,Nominated for 3 Golden Globes. Another 3 wins & 23 nominations.,0,0,0,0,0,0,3,0,3,26
+tt0759475,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0768805,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0768837,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt0772137,5 wins & 25 nominations.,0,0,0,0,0,0,0,0,5,25
+tt0795415,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt0799857,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0800968,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0807745,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0809622,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0816201,11 wins.,0,0,0,0,0,0,0,0,11,0
+tt0816401,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0819676,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0827740,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0828594,4 wins & 1 nomination.,0,0,0,0,0,0,0,0,4,1
+tt0829416,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt0844974,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0845456,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0856108,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0871862,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt0872202,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt0877057,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt0878143,6 wins & 1 nomination.,0,0,0,0,0,0,0,0,6,1
+tt0881961,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0883995,5 wins & 9 nominations.,0,0,0,0,0,0,0,0,5,9
+tt0884868,5 wins & 7 nominations.,0,0,0,0,0,0,0,0,5,7
+tt0896576,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0901702,4 wins & 5 nominations.,0,0,0,0,0,0,0,0,4,5
+tt0912606,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt0914865,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt0920486,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0950712,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0972554,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0994314,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt1094677,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1259811,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1307479,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1641424,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3651388,36 wins & 20 nominations.,0,0,0,0,0,0,0,0,36,20
+tt0379976,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
 tt0389722,12 nominations.,0,0,0,0,0,0,0,0,0,12
+tt0407168,1 win.,0,0,0,0,0,0,0,0,1,0
 tt0425413,3 nominations.,0,0,0,0,0,0,0,0,0,3
-tt0452608,1 win & 5 nominations.,0,0,0,0,0,0,0,0,0,5
-tt0469623,4 wins & 1 nomination.,0,0,0,0,0,0,0,0,4,0
-tt0497972,1 win.,0,0,0,0,0,0,0,0,0,0
+tt0431842,5 wins & 6 nominations.,0,0,0,0,0,0,0,0,5,6
+tt0452608,1 win & 5 nominations.,0,0,0,0,0,0,0,0,1,5
+tt0452692,1 win & 5 nominations.,0,0,0,0,0,0,0,0,1,5
+tt0458500,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0469623,4 wins & 1 nomination.,0,0,0,0,0,0,0,0,4,1
+tt0497972,1 win.,0,0,0,0,0,0,0,0,1,0
 tt0499448,2 wins & 19 nominations.,0,0,0,0,0,0,0,0,2,19
 tt0758730,4 nominations.,0,0,0,0,0,0,0,0,0,4
 tt0758758,Nominated for 2 Oscars. Another 23 wins & 99 nominations.,0,0,0,0,0,2,0,0,23,101
-tt0780595,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt0780595,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0783303,3 wins & 6 nominations.,0,0,0,0,0,0,0,0,3,6
+tt0814031,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0819906,1 win.,0,0,0,0,0,0,0,0,1,0
 tt0829482,10 wins & 24 nominations.,0,0,0,0,0,0,0,0,10,24
+tt0835005,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt0871510,26 wins & 18 nominations.,0,0,0,0,0,0,0,0,26,18
+tt0876295,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0877621,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
+tt0899270,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt0918927,Nominated for 5 Oscars. Another 26 wins & 88 nominations.,0,0,0,0,0,5,0,0,26,93
+tt0923928,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt0925212,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt0926063,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0929730,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt0965393,3 wins & 1 nomination.,0,0,0,0,0,0,0,0,3,1
+tt0968243,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt0968776,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0970184,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,0,0,0,0,0,1,0,0,2,5
+tt0972408,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0988065,5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt0996557,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt0999918,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt1001562,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt1023351,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt1024640,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1027890,3 wins & 1 nomination.,0,0,0,0,0,0,0,0,3,1
+tt1037186,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1059972,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt1068929,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1069153,1 win & 9 nominations.,0,0,0,0,0,0,0,0,1,9
+tt1073118,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt1073233,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt1093824,Nominated for 1 Oscar. Another 2 wins & 14 nominations.,0,0,0,0,0,1,0,0,2,15
 tt1099212,28 wins & 16 nominations.,0,0,0,0,0,0,0,0,28,16
-tt1213644,1 win & 6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt1102306,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1113760,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1117563,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt1124373,Won 1 Golden Globe. Another 10 wins & 57 nominations.,0,0,1,0,0,0,0,0,11,57
+tt1147970,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt1159598,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1160317,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1174047,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt1178197,8 wins & 6 nominations.,0,0,0,0,0,0,0,0,8,6
+tt1179454,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1180321,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt1180574,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1189259,5 wins & 2 nominations.,0,0,0,0,0,0,0,0,5,2
+tt1191972,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1194349,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1196006,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt1198194,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt1205046,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt1213644,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt1225901,2 wins & 17 nominations.,0,0,0,0,0,0,0,0,2,17
+tt1236247,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1239313,6 wins & 4 nominations.,0,0,0,0,0,0,0,0,6,4
+tt1241331,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1244649,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1245687,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1250727,2 wins & 10 nominations.,0,0,0,0,0,0,0,0,2,10
+tt1256139,26 wins & 24 nominations.,0,0,0,0,0,0,0,0,26,24
+tt1264068,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1278298,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1281970,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1282464,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1287830,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1294182,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1313257,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1334272,Won 1 Primetime Emmy. Another 3 wins & 3 nominations.,1,0,0,0,0,0,0,0,4,3
+tt1334411,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt1334519,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1351320,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1352077,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt1352832,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt1360068,Nominated for 1 Oscar. Another 5 wins & 1 nomination.,0,0,0,0,0,1,0,0,5,2
+tt1382454,Nominated for 1 Oscar. Another 1 win.,0,0,0,0,0,1,0,0,1,1
+tt1404752,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1445710,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt1451800,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1461246,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1467241,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt1479285,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt1521647,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt1545465,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1569554,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1601975,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt1690398,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1880430,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1896877,5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt2153919,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2290863,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
+tt3620536,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt0076759,Won 6 Oscars. Another 48 wins & 28 nominations.,0,6,0,0,0,0,0,0,54,28
 tt0409459,12 wins & 20 nominations.,0,0,0,0,0,0,0,0,12,20
-tt0473075,1 win & 9 nominations.,0,0,0,0,0,0,0,0,0,9
-tt0758752,Nominated for 2 Golden Globes. Another 1 win & 4 nominations.,0,0,0,0,0,0,2,0,0,6
+tt0473075,1 win & 9 nominations.,0,0,0,0,0,0,0,0,1,9
+tt0473298,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0758752,Nominated for 2 Golden Globes. Another 1 win & 4 nominations.,0,0,0,0,0,0,2,0,1,6
 tt0800320,4 wins & 12 nominations.,0,0,0,0,0,0,0,0,4,12
 tt0842926,Nominated for 4 Oscars. Another 28 wins & 116 nominations.,0,0,0,0,0,4,0,0,28,120
 tt0878804,Won 1 Oscar. Another 7 wins & 29 nominations.,0,1,0,0,0,0,0,0,8,29
 tt0892769,Nominated for 2 Oscars. Another 25 wins & 58 nominations.,0,0,0,0,0,2,0,0,25,60
-tt1034032,1 win.,0,0,0,0,0,0,0,0,0,0
+tt1034032,1 win.,0,0,0,0,0,0,0,0,1,0
 tt1053424,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1090753,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1109488,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
 tt1114677,6 wins & 10 nominations.,0,0,0,0,0,0,0,0,6,10
 tt1126591,Won 1 Golden Globe. Another 5 wins & 17 nominations.,0,0,1,0,0,0,0,0,6,17
-tt1407084,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt1188995,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1205503,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt1260915,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1277973,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
+tt1285295,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1297921,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1320286,Nominated for 3 Golden Globes. Another 1 win & 25 nominations.,0,0,0,0,0,0,3,0,1,28
+tt1321805,1 win & 7 nominations.,0,0,0,0,0,0,0,0,1,7
+tt1326218,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt1329539,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1331329,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1334303,5 wins & 1 nomination.,0,0,0,0,0,0,0,0,5,1
+tt1340456,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1353137,7 nominations.,0,0,0,0,0,0,0,0,0,7
+tt1355237,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt1370835,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1382679,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1385816,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1407084,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1407326,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt1408430,Nominated for 1 Primetime Emmy. Another 4 wins & 17 nominations.,0,0,0,0,1,0,0,0,4,18
+tt1408432,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1411254,2 wins & 10 nominations.,0,0,0,0,0,0,0,0,2,10
+tt1414378,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1419986,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1424043,2 wins & 8 nominations.,0,0,0,0,0,0,0,0,2,8
+tt1442402,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1442497,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1444680,3 wins & 10 nominations.,0,0,0,0,0,0,0,0,3,10
+tt1461312,Nominated for 2 Primetime Emmys. Another 8 wins & 14 nominations.,0,0,0,0,2,0,0,0,8,16
+tt1463140,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1467094,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1468760,4 wins & 9 nominations.,0,0,0,0,0,0,0,0,4,9
+tt1473826,1 win.,0,0,0,0,0,0,0,0,1,0
 tt1477076,3 nominations.,0,0,0,0,0,0,0,0,0,3
-tt1564585,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt1483421,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1504688,1 win & 7 nominations.,0,0,0,0,0,0,0,0,1,7
+tt1529233,7 wins & 8 nominations.,0,0,0,0,0,0,0,0,7,8
+tt1529670,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1534042,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1538426,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt1546653,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt1560160,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1564585,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1567138,1 win.,0,0,0,0,0,0,0,0,1,0
 tt1568921,11 wins & 6 nominations.,0,0,0,0,0,0,0,0,11,6
+tt1568922,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1574668,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1586081,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1590089,8 wins & 17 nominations.,0,0,0,0,0,0,0,0,8,17
+tt1613063,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1615929,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt1621444,1 win & 12 nominations.,0,0,0,0,0,0,0,0,1,12
+tt1622696,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1625572,6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt1667838,9 nominations.,0,0,0,0,0,0,0,0,0,9
+tt1668912,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1686898,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1690134,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1691338,Nominated for 1 Primetime Emmy. Another 1 win & 2 nominations.,0,0,0,0,1,0,0,0,1,3
+tt1691832,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt1697785,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1706670,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1733291,5 wins & 11 nominations.,0,0,0,0,0,0,0,0,5,11
+tt1743384,3 wins & 11 nominations.,0,0,0,0,0,0,0,0,3,11
+tt1748326,4 wins & 7 nominations.,0,0,0,0,0,0,0,0,4,7
+tt1758756,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1763350,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1769411,6 wins & 11 nominations.,0,0,0,0,0,0,0,0,6,11
+tt1773120,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1776812,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1785689,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1787281,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1792070,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt1805761,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt1811377,5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt1820766,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1825006,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1826832,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1863034,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt1876552,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1887969,3 wins & 7 nominations.,0,0,0,0,0,0,0,0,3,7
+tt1929482,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1995532,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2094217,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2184186,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2396815,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt2700330,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt4146594,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4208288,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt4209028,5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt4353976,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt0337692,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
 tt0448694,Nominated for 1 Oscar. Another 7 wins & 42 nominations.,0,0,0,0,0,1,0,0,7,43
 tt0848228,Nominated for 1 Oscar. Another 34 wins & 75 nominations.,0,0,0,0,0,1,0,0,34,76
 tt1024648,Won 3 Oscars. Another 92 wins & 150 nominations.,0,3,0,0,0,0,0,0,95,150
+tt1164982,1 win.,0,0,0,0,0,0,0,0,1,0
 tt1201607,Nominated for 3 Oscars. Another 46 wins & 87 nominations.,0,0,0,0,0,3,0,0,46,90
-tt1268799,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt1268799,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt1270798,20 wins & 35 nominations.,0,0,0,0,0,0,0,0,20,35
 tt1324999,11 wins & 21 nominations.,0,0,0,0,0,0,0,0,11,21
+tt1325019,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
 tt1340800,Nominated for 3 Oscars. Another 34 wins & 88 nominations.,0,0,0,0,0,3,0,0,34,91
+tt1418380,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt1438539,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
 tt1441326,22 wins & 68 nominations.,0,0,0,0,0,0,0,0,22,68
+tt1472464,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
 tt1527186,32 wins & 86 nominations.,0,0,0,0,0,0,0,0,32,86
-tt1563738,1 win & 2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1541874,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt1563738,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt1564349,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
+tt1584923,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
 tt1596343,8 wins & 19 nominations.,0,0,0,0,0,0,0,0,8,19
-tt1596346,1 win & 12 nominations.,0,0,0,0,0,0,0,0,0,12
-tt1611224,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt1596346,1 win & 12 nominations.,0,0,0,0,0,0,0,0,1,12
+tt1611224,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1624996,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
 tt1637725,Nominated for 1 Oscar. Another 13 wins & 26 nominations.,0,0,0,0,0,1,0,0,13,27
 tt1650062,11 wins & 62 nominations.,0,0,0,0,0,0,0,0,11,62
-tt1753846,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt1650536,3 wins & 2 nominations.,0,0,0,0,0,0,0,0,3,2
+tt1677734,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1694570,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1699114,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1712502,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1715802,5 wins & 6 nominations.,0,0,0,0,0,0,0,0,5,6
+tt1720254,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1728102,2 wins & 6 nominations.,0,0,0,0,0,0,0,0,2,6
+tt1730374,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt1735335,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1742028,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1753561,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1753846,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt1754795,2 nominations.,0,0,0,0,0,0,0,0,0,2
-tt1772240,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt1772240,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1772752,7 wins & 12 nominations.,0,0,0,0,0,0,0,0,7,12
+tt1784167,3 wins & 2 nominations.,0,0,0,0,0,0,0,0,3,2
+tt1786704,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt1787777,3 wins & 9 nominations.,0,0,0,0,0,0,0,0,3,9
+tt1787989,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt1790914,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1792621,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1810633,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1811399,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt1819781,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1828246,Nominated for 2 Primetime Emmys. Another 1 win & 1 nomination.,0,0,0,0,2,0,0,0,1,3
+tt1838775,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt1840973,9 wins & 2 nominations.,0,0,0,0,0,0,0,0,9,2
+tt1845307,Won 1 Primetime Emmy. Another 2 wins & 20 nominations.,1,0,0,0,0,0,0,0,3,20
+tt1851101,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt1853009,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1863305,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1877740,Nominated for 1 Primetime Emmy. Another 1 win & 26 nominations.,0,0,0,0,1,0,0,0,1,27
+tt1884501,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1891892,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1899111,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt1907676,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt1909841,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt1922777,3 wins & 13 nominations.,0,0,0,0,0,0,0,0,3,13
+tt1922836,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1924273,3 wins & 1 nomination.,0,0,0,0,0,0,0,0,3,1
+tt1930271,6 wins & 13 nominations.,0,0,0,0,0,0,0,0,6,13
+tt1942152,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1948209,3 wins & 2 nominations.,0,0,0,0,0,0,0,0,3,2
+tt1951319,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt1955162,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1959644,2 wins & 6 nominations.,0,0,0,0,0,0,0,0,2,6
+tt1967616,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1979230,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1986005,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1989646,10 wins & 5 nominations.,0,0,0,0,0,0,0,0,10,5
+tt1990380,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2005238,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2006939,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2007504,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2011271,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2011471,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt2012041,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2017030,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2055820,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2059177,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2059323,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2066980,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt2070791,Won 1 Primetime Emmy. Another 3 wins & 11 nominations.,1,0,0,0,0,0,0,0,4,11
+tt2072241,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
+tt2072899,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2088920,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2088993,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2093350,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2094209,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt2104412,6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt2106460,4 wins & 4 nominations.,0,0,0,0,0,0,0,0,4,4
+tt2107893,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2109059,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt2111452,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2111684,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt2116841,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2118720,2 wins & 27 nominations.,0,0,0,0,0,0,0,0,2,27
+tt2124003,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2134254,3 wins & 1 nomination.,0,0,0,0,0,0,0,0,3,1
+tt2136972,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt2158609,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2158640,Won 1 Primetime Emmy. Another 4 nominations.,1,0,0,0,0,0,0,0,1,4
+tt2164114,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2164274,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
+tt2166160,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2167895,13 wins & 7 nominations.,0,0,0,0,0,0,0,0,13,7
+tt2170687,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
+tt2187850,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt2191148,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
+tt2193209,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2197536,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2197566,13 wins & 5 nominations.,0,0,0,0,0,0,0,0,13,5
+tt2197797,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2243407,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2258787,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2261391,4 wins & 16 nominations.,0,0,0,0,0,0,0,0,4,16
+tt2262521,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt2265154,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2266639,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2287993,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2339875,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt2342389,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2354136,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2359171,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt2362760,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt2363255,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2377190,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2384532,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2386170,6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt2396758,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2401233,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2403933,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2404029,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2465378,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2494018,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2498938,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2519480,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2523506,Nominated for 1 Primetime Emmy. Another 3 nominations.,0,0,0,0,1,0,0,0,0,4
+tt2529232,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2542372,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2624860,Won 2 Primetime Emmys. Another 2 nominations.,2,0,0,0,0,0,0,0,2,2
+tt2635406,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2642860,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt2690730,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt2825222,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3017196,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3020768,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3306650,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3777050,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3785046,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3788106,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4210334,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt4287584,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt0062622,Won 1 Oscar. Another 13 wins & 7 nominations.,0,1,0,0,0,0,0,0,14,7
 tt0062622,Won 1 Oscar. Another 13 wins & 7 nominations.,0,1,0,0,0,0,0,0,14,7
+tt0070992,Won 3 Golden Globes. Another 13 wins & 19 nominations.,0,0,3,0,0,0,0,0,16,19
 tt0076759,Won 6 Oscars. Another 48 wins & 28 nominations.,0,6,0,0,0,0,0,0,54,28
+tt0077687,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt0092272,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0092272,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0092455,Won 18 Primetime Emmys. Another 16 wins & 60 nominations.,18,0,0,0,0,0,0,0,34,60
 tt0119528,Nominated for 1 Golden Globe. Another 4 wins & 5 nominations.,0,0,0,0,0,0,1,0,4,6
 tt0359950,5 wins & 16 nominations.,0,0,0,0,0,0,0,0,5,16
+tt0362671,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0364900,6 wins & 5 nominations.,0,0,0,0,0,0,0,0,6,5
+tt0403935,5 nominations.,0,0,0,0,0,0,0,0,0,5
 tt0405469,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt0407362,Won 3 Primetime Emmys. Another 34 wins & 89 nominations.,3,0,0,0,0,0,0,0,37,89
 tt0418279,Nominated for 3 Oscars. Another 19 wins & 40 nominations.,0,0,0,0,0,3,0,0,19,43
 tt0429493,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
-tt0469021,1 win & 7 nominations.,0,0,0,0,0,0,0,0,0,7
+tt0469021,1 win & 7 nominations.,0,0,0,0,0,0,0,0,1,7
 tt0481499,Nominated for 1 Oscar. Another 5 wins & 41 nominations.,0,0,0,0,0,1,0,0,5,42
-tt0765446,1 win.,0,0,0,0,0,0,0,0,0,0
+tt0765446,1 win.,0,0,0,0,0,0,0,0,1,0
 tt0770828,7 wins & 42 nominations.,0,0,0,0,0,0,0,0,7,42
 tt0787474,Nominated for 1 Oscar. Another 8 wins & 58 nominations.,0,0,0,0,0,1,0,0,8,59
 tt0816692,Won 1 Oscar. Another 39 wins & 134 nominations.,0,1,0,0,0,0,0,0,40,134
@@ -119,225 +686,1134 @@ tt0848228,Nominated for 1 Oscar. Another 34 wins & 75 nominations.,0,0,0,0,0,1,0
 tt0848537,2 wins & 21 nominations.,0,0,0,0,0,0,0,0,2,21
 tt0864835,2 wins & 16 nominations.,0,0,0,0,0,0,0,0,2,16
 tt0903657,Nominated for 2 Golden Globes. Another 20 wins & 52 nominations.,0,0,0,0,0,0,2,0,20,54
+tt0918561,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
 tt1015471,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
+tt1141702,2 wins & 7 nominations.,0,0,0,0,0,0,0,0,2,7
+tt1142985,1 win.,0,0,0,0,0,0,0,0,1,0
 tt1205537,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt1210819,Nominated for 2 Oscars. Another 4 wins & 17 nominations.,0,0,0,0,0,2,0,0,4,19
-tt1229340,1 win & 23 nominations.,0,0,0,0,0,0,0,0,0,23
-tt1234721,4 wins & 1 nomination.,0,0,0,0,0,0,0,0,4,0
-tt1291150,1 win & 10 nominations.,0,0,0,0,0,0,0,0,0,10
+tt1229340,1 win & 23 nominations.,0,0,0,0,0,0,0,0,1,23
+tt1234721,4 wins & 1 nomination.,0,0,0,0,0,0,0,0,4,1
+tt1291150,1 win & 10 nominations.,0,0,0,0,0,0,0,0,1,10
 tt1300854,Nominated for 1 Oscar. Another 17 wins & 53 nominations.,0,0,0,0,0,1,0,0,17,54
 tt1343092,Won 2 Oscars. Another 44 wins & 74 nominations.,0,2,0,0,0,0,0,0,46,74
-tt1355630,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,0
+tt1355630,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
 tt1408101,Nominated for 1 Oscar. Another 6 wins & 46 nominations.,0,0,0,0,0,1,0,0,6,47
-tt1428538,1 win & 4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt1428538,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
 tt1430132,2 wins & 11 nominations.,0,0,0,0,0,0,0,0,2,11
 tt1453405,Nominated for 1 BAFTA Film Award. Another 9 wins & 54 nominations.,0,0,0,0,0,0,0,1,9,55
 tt1454468,Won 7 Oscars. Another 215 wins & 169 nominations.,0,7,0,0,0,0,0,0,222,169
-tt1462411,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt1462411,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt1490017,Nominated for 1 Oscar. Another 70 wins & 59 nominations.,0,0,0,0,0,1,0,0,70,60
 tt1528100,4 nominations.,0,0,0,0,0,0,0,0,0,4
 tt1571249,4 wins & 10 nominations.,0,0,0,0,0,0,0,0,4,10
 tt1587310,Nominated for 1 Oscar. Another 9 wins & 40 nominations.,0,0,0,0,0,1,0,0,9,41
-tt1588173,1 win & 9 nominations.,0,0,0,0,0,0,0,0,0,9
+tt1588173,1 win & 9 nominations.,0,0,0,0,0,0,0,0,1,9
+tt1597725,3 wins & 2 nominations.,0,0,0,0,0,0,0,0,3,2
+tt1598754,Nominated for 3 Primetime Emmys. Another 14 nominations.,0,0,0,0,3,0,0,0,0,17
 tt1606378,3 wins & 7 nominations.,0,0,0,0,0,0,0,0,3,7
 tt1621039,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt1623205,5 wins & 31 nominations.,0,0,0,0,0,0,0,0,5,31
 tt1631867,11 wins & 34 nominations.,0,0,0,0,0,0,0,0,11,34
+tt1645131,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
 tt1646971,Nominated for 1 Oscar. Another 13 wins & 59 nominations.,0,0,0,0,0,1,0,0,13,60
-tt1650554,1 win & 7 nominations.,0,0,0,0,0,0,0,0,0,7
+tt1650554,1 win & 7 nominations.,0,0,0,0,0,0,0,0,1,7
+tt1656195,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt1663662,Nominated for 1 BAFTA Film Award. Another 5 wins & 42 nominations.,0,0,0,0,0,0,0,1,5,43
-tt1670345,1 win & 3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt1670345,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
 tt1690953,Nominated for 2 Oscars. Another 12 wins & 63 nominations.,0,0,0,0,0,2,0,0,12,65
+tt1691307,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt1691917,5 nominations.,0,0,0,0,0,0,0,0,0,5
-tt1698641,1 win & 7 nominations.,0,0,0,0,0,0,0,0,0,7
+tt1696183,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1698641,1 win & 7 nominations.,0,0,0,0,0,0,0,0,1,7
+tt1709694,14 wins.,0,0,0,0,0,0,0,0,14,0
 tt1715336,3 nominations.,0,0,0,0,0,0,0,0,0,3
-tt1731141,1 win & 6 nominations.,0,0,0,0,0,0,0,0,0,6
-tt1762399,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt1729615,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt1731141,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt1748016,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
+tt1753353,8 nominations.,0,0,0,0,0,0,0,0,0,8
+tt1762399,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt1790864,4 wins & 10 nominations.,0,0,0,0,0,0,0,0,4,10
+tt1796652,2 wins & 16 nominations.,0,0,0,0,0,0,0,0,2,16
 tt1815862,3 wins & 7 nominations.,0,0,0,0,0,0,0,0,3,7
-tt1821658,1 win & 4 nominations.,0,0,0,0,0,0,0,0,0,4
-tt1826590,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt1830713,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt1821658,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt1826590,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1828124,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
+tt1830713,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt1837494,1 win.,0,0,0,0,0,0,0,0,1,0
+tt1838603,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt1843866,Nominated for 1 Oscar. Another 5 wins & 49 nominations.,0,0,0,0,0,1,0,0,5,50
-tt1860353,1 win & 11 nominations.,0,0,0,0,0,0,0,0,0,11
+tt1847746,18 wins & 22 nominations.,0,0,0,0,0,0,0,0,18,22
+tt1856010,Won 2 Golden Globes. Another 25 wins & 162 nominations.,0,0,2,0,0,0,0,0,27,162
+tt1860353,1 win & 11 nominations.,0,0,0,0,0,0,0,0,1,11
 tt1865505,Nominated for 1 Oscar. Another 11 wins & 21 nominations.,0,0,0,0,0,1,0,0,11,22
 tt1872181,3 wins & 29 nominations.,0,0,0,0,0,0,0,0,3,29
 tt1877832,Nominated for 1 Oscar. Another 15 wins & 42 nominations.,0,0,0,0,0,1,0,0,15,43
+tt1905003,9 wins & 4 nominations.,0,0,0,0,0,0,0,0,9,4
 tt1905041,8 wins & 21 nominations.,0,0,0,0,0,0,0,0,8,21
-tt1911644,1 win & 10 nominations.,0,0,0,0,0,0,0,0,0,10
-tt1911658,1 win & 6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt1911644,1 win & 10 nominations.,0,0,0,0,0,0,0,0,1,10
+tt1911658,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt1915626,1 win.,0,0,0,0,0,0,0,0,1,0
 tt1921149,Nominated for 1 BAFTA Film Award. Another 2 wins & 4 nominations.,0,0,0,0,0,0,0,1,2,5
-tt1924435,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt1924435,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt1931435,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt1939659,5 wins & 7 nominations.,0,0,0,0,0,0,0,0,5,7
+tt1946381,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt1951261,2 wins & 6 nominations.,0,0,0,0,0,0,0,0,2,6
 tt1951264,Nominated for 1 Golden Globe. Another 21 wins & 59 nominations.,0,0,0,0,0,0,1,0,21,60
 tt1951265,Nominated for 1 Golden Globe. Another 16 wins & 26 nominations.,0,0,0,0,0,0,1,0,16,27
 tt1956620,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
+tt1957886,1 win.,0,0,0,0,0,0,0,0,1,0
 tt1964773,8 wins & 6 nominations.,0,0,0,0,0,0,0,0,8,6
+tt1965118,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
 tt1972571,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
+tt1974384,1 win.,0,0,0,0,0,0,0,0,1,0
 tt1981115,2 wins & 18 nominations.,0,0,0,0,0,0,0,0,2,18
 tt1985966,16 nominations.,0,0,0,0,0,0,0,0,0,16
 tt2002718,3 nominations.,0,0,0,0,0,0,0,0,0,3
 tt2004420,6 wins & 11 nominations.,0,0,0,0,0,0,0,0,6,11
+tt2006753,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt2015381,Nominated for 2 Oscars. Another 48 wins & 92 nominations.,0,0,0,0,0,2,0,0,48,94
+tt2016242,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt2017038,Nominated for 1 Oscar. Another 3 wins & 45 nominations.,0,0,0,0,0,1,0,0,3,46
+tt2017109,Won 1 Primetime Emmy. Another 1 win & 5 nominations.,1,0,0,0,0,0,0,0,2,5
 tt2017486,9 wins & 3 nominations.,0,0,0,0,0,0,0,0,9,3
-tt2024469,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt2024469,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt2024544,Won 3 Oscars. Another 234 wins & 312 nominations.,0,3,0,0,0,0,0,0,237,312
-tt2096672,1 win & 6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt2076875,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2078576,7 nominations.,0,0,0,0,0,0,0,0,0,7
+tt2081274,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2084093,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt2095649,Nominated for 2 Primetime Emmys. Another 1 win & 2 nominations.,0,0,0,0,2,0,0,0,1,4
+tt2096672,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt2098781,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt2103188,10 wins & 23 nominations.,0,0,0,0,0,0,0,0,10,23
+tt2106529,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt2112923,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2120144,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt2136138,Nominated for 2 Primetime Emmys. Another 4 wins & 15 nominations.,0,0,0,0,2,0,0,0,4,17
+tt2140039,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
 tt2140373,Nominated for 1 Oscar. Another 12 wins & 71 nominations.,0,0,0,0,0,1,0,0,12,72
+tt2155405,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2163315,Won 1 Golden Globe. Another 4 wins & 16 nominations.,0,0,1,0,0,0,0,0,5,16
+tt2166834,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
 tt2167266,2 wins & 18 nominations.,0,0,0,0,0,0,0,0,2,18
+tt2169322,9 wins & 13 nominations.,0,0,0,0,0,0,0,0,9,13
+tt2170228,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt2172985,5 nominations.,0,0,0,0,0,0,0,0,0,5
 tt2180411,Nominated for 3 Oscars. Another 11 wins & 69 nominations.,0,0,0,0,0,3,0,0,11,72
-tt2190838,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2191082,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2193265,1 win.,0,0,0,0,0,0,0,0,0,0
+tt2181889,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2188671,Nominated for 3 Primetime Emmys. Another 2 wins & 48 nominations.,0,0,0,0,3,0,0,0,2,51
+tt2190838,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2191082,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2191400,4 wins & 12 nominations.,0,0,0,0,0,0,0,0,4,12
+tt2193265,1 win.,0,0,0,0,0,0,0,0,1,0
 tt2194499,3 wins & 9 nominations.,0,0,0,0,0,0,0,0,3,9
+tt2194988,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
 tt2199543,8 wins & 11 nominations.,0,0,0,0,0,0,0,0,8,11
 tt2201251,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt2203939,3 wins & 4 nominations.,0,0,0,0,0,0,0,0,3,4
 tt2209764,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
-tt2229499,1 win & 28 nominations.,0,0,0,0,0,0,0,0,0,28
-tt2234261,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2243537,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2244901,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt2224645,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2229499,1 win & 28 nominations.,0,0,0,0,0,0,0,0,1,28
+tt2233170,13 wins & 11 nominations.,0,0,0,0,0,0,0,0,13,11
+tt2234261,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2237342,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2243537,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2244901,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
 tt2245084,Won 1 Oscar. Another 13 wins & 53 nominations.,0,1,0,0,0,0,0,0,14,53
+tt2245119,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2249278,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt2249364,19 wins & 21 nominations.,0,0,0,0,0,0,0,0,19,21
+tt2252668,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2258904,1 win & 8 nominations.,0,0,0,0,0,0,0,0,1,8
+tt2260850,3 wins & 4 nominations.,0,0,0,0,0,0,0,0,3,4
+tt2261325,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt2262227,Nominated for 1 Golden Globe. Another 3 wins & 27 nominations.,0,0,0,0,0,0,1,0,3,28
-tt2265398,1 win & 3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt2263944,7 wins & 4 nominations.,0,0,0,0,0,0,0,0,7,4
+tt2265398,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt2267368,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt2267998,Nominated for 1 Oscar. Another 64 wins & 169 nominations.,0,0,0,0,0,1,0,0,64,170
+tt2268458,3 wins & 7 nominations.,0,0,0,0,0,0,0,0,3,7
+tt2274208,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2275451,2 wins.,0,0,0,0,0,0,0,0,2,0
 tt2278388,Won 4 Oscars. Another 122 wins & 213 nominations.,0,4,0,0,0,0,0,0,126,213
+tt2281328,1 win.,0,0,0,0,0,0,0,0,1,0
 tt2281587,3 wins & 11 nominations.,0,0,0,0,0,0,0,0,3,11
+tt2287170,3 wins & 4 nominations.,0,0,0,0,0,0,0,0,3,4
+tt2288064,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt2290567,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt2292959,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
 tt2294629,Won 2 Oscars. Another 72 wins & 57 nominations.,0,2,0,0,0,0,0,0,74,57
+tt2295672,3 wins & 5 nominations.,0,0,0,0,0,0,0,0,3,5
+tt2296682,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt2298384,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt2310332,Nominated for 1 Oscar. Another 6 wins & 45 nominations.,0,0,0,0,0,1,0,0,6,46
-tt2316801,1 win & 3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt2315896,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt2316801,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt2317102,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
 tt2324384,5 wins & 2 nominations.,0,0,0,0,0,0,0,0,5,2
-tt2333784,1 win & 4 nominations.,0,0,0,0,0,0,0,0,0,4
-tt2339741,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2357291,1 win & 19 nominations.,0,0,0,0,0,0,0,0,0,19
+tt2329077,11 nominations.,0,0,0,0,0,0,0,0,0,11
+tt2333784,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt2337458,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2339741,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2341644,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2342652,Nominated for 1 Primetime Emmy. Another 1 win & 5 nominations.,0,0,0,0,1,0,0,0,1,6
+tt2343707,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2345481,7 wins & 18 nominations.,0,0,0,0,0,0,0,0,7,18
+tt2345613,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2357291,1 win & 19 nominations.,0,0,0,0,0,0,0,0,1,19
 tt2357377,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
-tt2369135,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt2357461,23 wins & 27 nominations.,0,0,0,0,0,0,0,0,23,27
+tt2357770,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2360390,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2364582,Nominated for 2 Primetime Emmys. Another 2 wins & 21 nominations.,0,0,0,0,2,0,0,0,2,23
+tt2365946,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt2369135,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2369914,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2372162,Nominated for 6 Golden Globes. Another 43 wins & 92 nominations.,0,0,0,0,0,0,6,0,43,98
+tt2374744,3 wins & 7 nominations.,0,0,0,0,0,0,0,0,3,7
+tt2375278,4 wins & 3 nominations.,0,0,0,0,0,0,0,0,4,3
+tt2375473,2 wins & 7 nominations.,0,0,0,0,0,0,0,0,2,7
+tt2375692,Won 3 Primetime Emmys. Another 2 wins & 17 nominations.,3,0,0,0,0,0,0,0,5,17
 tt2377322,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2377938,11 nominations.,0,0,0,0,0,0,0,0,0,11
+tt2379082,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2380301,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt2381048,4 wins & 5 nominations.,0,0,0,0,0,0,0,0,4,5
 tt2382009,14 wins & 26 nominations.,0,0,0,0,0,0,0,0,14,26
 tt2382396,4 wins & 9 nominations.,0,0,0,0,0,0,0,0,4,9
+tt2385006,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt2385041,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt2386257,2 wins & 9 nominations.,0,0,0,0,0,0,0,0,2,9
+tt2386868,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2386922,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2388152,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2388819,4 wins & 8 nominations.,0,0,0,0,0,0,0,0,4,8
+tt2390334,3 wins & 3 nominations.,0,0,0,0,0,0,0,0,3,3
+tt2390480,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2391622,5 wins & 9 nominations.,0,0,0,0,0,0,0,0,5,9
+tt2392179,6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt2392433,4 wins & 9 nominations.,0,0,0,0,0,0,0,0,4,9
 tt2393845,2 nominations.,0,0,0,0,0,0,0,0,0,2
-tt2404311,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt2399794,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt2402091,11 wins & 6 nominations.,0,0,0,0,0,0,0,0,11,6
+tt2404311,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2404417,5 wins & 2 nominations.,0,0,0,0,0,0,0,0,5,2
 tt2404461,Nominated for 1 Golden Globe. Another 12 wins & 35 nominations.,0,0,0,0,0,0,1,0,12,36
+tt2406376,7 wins & 3 nominations.,0,0,0,0,0,0,0,0,7,3
+tt2406992,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt2408482,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2409300,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2413338,1 win.,0,0,0,0,0,0,0,0,1,0
 tt2418372,4 nominations.,0,0,0,0,0,0,0,0,0,4
-tt2450186,1 win & 6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt2419986,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2420092,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2427502,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt2431410,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2434988,7 wins & 4 nominations.,0,0,0,0,0,0,0,0,7,4
+tt2449606,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2450186,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt2452470,3 wins & 4 nominations.,0,0,0,0,0,0,0,0,3,4
+tt2455546,8 nominations.,0,0,0,0,0,0,0,0,0,8
+tt2458910,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2461132,10 wins & 38 nominations.,0,0,0,0,0,0,0,0,10,38
+tt2467020,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt2467372,Won 2 Golden Globes. Another 7 wins & 54 nominations.,0,0,2,0,0,0,0,0,9,54
 tt2473682,2 nominations.,0,0,0,0,0,0,0,0,0,2
-tt2515030,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2531282,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2597242,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2609758,1 win & 6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt2476176,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2492366,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2492738,7 wins & 2 nominations.,0,0,0,0,0,0,0,0,7,2
+tt2499534,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2505938,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt2511670,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2514936,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2515030,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2524568,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2525290,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2525840,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2531282,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2536846,4 wins & 2 nominations.,0,0,0,0,0,0,0,0,4,2
+tt2543312,Nominated for 1 Primetime Emmy. Another 1 win & 6 nominations.,0,0,0,0,1,0,0,0,1,7
+tt2544182,4 wins & 7 nominations.,0,0,0,0,0,0,0,0,4,7
+tt2545910,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2547850,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2551046,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2551624,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2551654,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2553444,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt2556308,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt2558556,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt2564156,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2571774,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2573226,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2575988,Nominated for 2 Golden Globes. Another 10 wins & 46 nominations.,0,0,0,0,0,0,2,0,10,48
+tt2578560,8 nominations.,0,0,0,0,0,0,0,0,0,8
+tt2582426,13 wins & 8 nominations.,0,0,0,0,0,0,0,0,13,8
+tt2585808,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2594078,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2595390,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2597242,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2602734,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2606806,4 wins & 5 nominations.,0,0,0,0,0,0,0,0,4,5
+tt2608368,2 wins & 15 nominations.,0,0,0,0,0,0,0,0,2,15
+tt2609758,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt2613776,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2615726,5 wins & 2 nominations.,0,0,0,0,0,0,0,0,5,2
+tt2622530,10 wins & 2 nominations.,0,0,0,0,0,0,0,0,10,2
+tt2624636,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt2632556,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2634238,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2636124,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt2639254,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2645724,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt2646374,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2647544,Nominated for 1 Primetime Emmy. Another 30 nominations.,0,0,0,0,1,0,0,0,0,31
+tt2648204,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2649588,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2650642,4 wins & 6 nominations.,0,0,0,0,0,0,0,0,4,6
+tt2653264,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2654580,Nominated for 1 Primetime Emmy. Another 2 wins & 4 nominations.,0,0,0,0,1,0,0,0,2,5
+tt2657242,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2658126,7 nominations.,0,0,0,0,0,0,0,0,0,7
+tt2659954,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt2662822,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2666270,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2668134,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
 tt2669336,18 wins & 5 nominations.,0,0,0,0,0,0,0,0,18,5
+tt2670454,1 win & 5 nominations.,0,0,0,0,0,0,0,0,1,5
+tt2672730,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2674924,6 wins & 13 nominations.,0,0,0,0,0,0,0,0,6,13
+tt2691102,1 win & 8 nominations.,0,0,0,0,0,0,0,0,1,8
+tt2704656,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt2704752,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2704988,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2705602,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2707792,Nominated for 4 Primetime Emmys. Another 12 nominations.,0,0,0,0,4,0,0,0,0,16
+tt2708258,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt2711738,4 wins & 2 nominations.,0,0,0,0,0,0,0,0,4,2
+tt2712612,Won 1 Primetime Emmy. Another 1 win & 4 nominations.,1,0,0,0,0,0,0,0,2,4
+tt2714118,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2717558,20 wins & 32 nominations.,0,0,0,0,0,0,0,0,20,32
+tt2717740,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt2724064,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt2734004,9 nominations.,0,0,0,0,0,0,0,0,0,9
 tt2737050,Nominated for 1 Oscar. Another 38 wins & 74 nominations.,0,0,0,0,0,1,0,0,38,75
+tt2737690,3 wins & 3 nominations.,0,0,0,0,0,0,0,0,3,3
+tt2739708,1 win & 11 nominations.,0,0,0,0,0,0,0,0,1,11
+tt2742174,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2747548,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2749298,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2751074,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2757456,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2760020,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2760492,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2762738,19 wins & 10 nominations.,0,0,0,0,0,0,0,0,19,10
 tt2764784,15 wins & 27 nominations.,0,0,0,0,0,0,0,0,15,27
+tt2767040,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2767700,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2769470,3 nominations.,0,0,0,0,0,0,0,0,0,3
 tt2771372,6 nominations.,0,0,0,0,0,0,0,0,0,6
-tt2788710,1 win & 3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt2773126,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2776888,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt2787824,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2788710,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt2792284,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2792326,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt2793490,6 wins & 15 nominations.,0,0,0,0,0,0,0,0,6,15
+tt2797344,3 wins & 5 nominations.,0,0,0,0,0,0,0,0,3,5
+tt2798590,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2801538,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt2802144,6 wins & 19 nominations.,0,0,0,0,0,0,0,0,6,19
-tt2908856,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2975578,1 win & 4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt2805096,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt2814370,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2818720,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2820078,5 wins & 4 nominations.,0,0,0,0,0,0,0,0,5,4
+tt2820336,5 wins & 6 nominations.,0,0,0,0,0,0,0,0,5,6
+tt2820784,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2821088,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt2821314,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2821430,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2827412,4 wins & 6 nominations.,0,0,0,0,0,0,0,0,4,6
+tt2845786,Won 5 Primetime Emmys. Another 7 wins & 23 nominations.,5,0,0,0,0,0,0,0,12,23
+tt2847426,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2849004,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2853116,2 wins & 6 nominations.,0,0,0,0,0,0,0,0,2,6
+tt2854140,6 wins & 12 nominations.,0,0,0,0,0,0,0,0,6,12
+tt2861322,3 wins & 2 nominations.,0,0,0,0,0,0,0,0,3,2
+tt2865618,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt2871832,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2876114,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2884130,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt2889112,12 wins & 10 nominations.,0,0,0,0,0,0,0,0,12,10
+tt2893256,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt2894546,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2894644,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt2894668,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2894710,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2896066,5 wins & 15 nominations.,0,0,0,0,0,0,0,0,5,15
+tt2904568,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2906772,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2908856,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2909286,4 wins & 7 nominations.,0,0,0,0,0,0,0,0,4,7
+tt2911448,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2917336,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2924484,Won 1 Oscar. Another 2 wins & 1 nomination.,0,1,0,0,0,0,0,0,3,1
+tt2930446,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2930604,4 wins & 14 nominations.,0,0,0,0,0,0,0,0,4,14
+tt2931992,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2933326,20 wins & 19 nominations.,0,0,0,0,0,0,0,0,20,19
+tt2934660,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2935986,6 wins & 2 nominations.,0,0,0,0,0,0,0,0,6,2
+tt2936906,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2937214,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2938310,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2945504,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2945936,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2946764,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt2950996,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt2951478,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
+tt2952566,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt2952602,3 wins & 12 nominations.,0,0,0,0,0,0,0,0,3,12
+tt2956940,8 nominations.,0,0,0,0,0,0,0,0,0,8
+tt2960144,5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt2960796,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2960890,5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt2963076,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2963232,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2963340,1 win & 5 nominations.,0,0,0,0,0,0,0,0,1,5
+tt2963344,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2967166,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2967368,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2974350,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2975578,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
 tt2978462,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt2980706,6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt2990558,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt2992646,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2994904,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt3006576,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
+tt3009336,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
+tt3009444,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
+tt3010656,1 win & 12 nominations.,0,0,0,0,0,0,0,0,1,12
+tt3012160,1 win & 5 nominations.,0,0,0,0,0,0,0,0,1,5
+tt3012492,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3012532,3 wins & 17 nominations.,0,0,0,0,0,0,0,0,3,17
+tt3015094,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3017412,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3019450,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3020682,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3021360,5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt3031966,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3037520,Won 2 Primetime Emmys. Another 3 wins & 5 nominations.,2,0,0,0,0,0,0,0,5,5
+tt3039076,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3039270,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3041356,Won 1 Primetime Emmy. Another 1 nomination.,1,0,0,0,0,0,0,0,1,1
+tt3042526,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt3042722,6 wins & 4 nominations.,0,0,0,0,0,0,0,0,6,4
+tt3044834,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt3045044,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt3053574,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3057572,8 wins & 2 nominations.,0,0,0,0,0,0,0,0,8,2
+tt3061050,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3063316,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3064658,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3067462,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3075206,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3078602,3 wins & 8 nominations.,0,0,0,0,0,0,0,0,3,8
+tt3088960,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3089904,4 wins & 11 nominations.,0,0,0,0,0,0,0,0,4,11
+tt3091254,5 wins & 6 nominations.,0,0,0,0,0,0,0,0,5,6
+tt3091810,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3092606,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3101352,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3103598,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3104078,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3104558,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3106120,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3108260,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3110942,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3111136,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3115864,6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt3118244,8 wins.,0,0,0,0,0,0,0,0,8,0
 tt3125472,15 wins & 30 nominations.,0,0,0,0,0,0,0,0,15,30
+tt3130852,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3132514,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt3132738,Won 1 Primetime Emmy. Another 1 win & 21 nominations.,1,0,0,0,0,0,0,0,2,21
+tt3133386,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3134422,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3139072,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3144678,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt3146580,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3147542,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3150056,1 win.,0,0,0,0,0,0,0,0,1,0
 tt3169706,Nominated for 1 Golden Globe. Another 8 wins & 16 nominations.,0,0,0,0,0,0,1,0,8,17
+tt3170348,Won 1 Primetime Emmy. Another 2 wins.,1,0,0,0,0,0,0,0,3,0
+tt3175038,7 wins & 8 nominations.,0,0,0,0,0,0,0,0,7,8
+tt3175846,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3176116,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt3176134,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3176254,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3178442,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3181672,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt3181728,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3184580,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3190372,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3194678,5 wins.,0,0,0,0,0,0,0,0,5,0
+tt3195768,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt3196174,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt3202500,3 wins & 4 nominations.,0,0,0,0,0,0,0,0,3,4
+tt3204392,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3207304,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3209710,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3212404,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3214648,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3215892,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt3216682,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3240898,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt3242480,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3242924,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3243306,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3244992,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3250010,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3254404,Nominated for 1 Primetime Emmy. Another 1 nomination.,0,0,0,0,1,0,0,0,0,2
+tt3264240,3 wins & 4 nominations.,0,0,0,0,0,0,0,0,3,4
+tt3265626,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3268042,6 wins & 3 nominations.,0,0,0,0,0,0,0,0,6,3
+tt3268458,4 wins & 2 nominations.,0,0,0,0,0,0,0,0,4,2
+tt3271372,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3275400,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt3278420,5 wins & 3 nominations.,0,0,0,0,0,0,0,0,5,3
 tt3279124,Nominated for 1 Oscar. Another 4 wins & 9 nominations.,0,0,0,0,0,1,0,0,4,10
-tt3281074,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,0
+tt3279462,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt3279494,Won 2 Primetime Emmys. Another 3 nominations.,2,0,0,0,0,0,0,0,2,3
+tt3281074,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt3281646,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt3289126,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3297554,9 wins & 1 nomination.,0,0,0,0,0,0,0,0,9,1
+tt3299698,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3300126,5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt3300988,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3304616,3 wins & 1 nomination.,0,0,0,0,0,0,0,0,3,1
+tt3304860,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3311582,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3312930,4 wins & 3 nominations.,0,0,0,0,0,0,0,0,4,3
+tt3313396,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
+tt3318220,9 wins & 7 nominations.,0,0,0,0,0,0,0,0,9,7
+tt3322274,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt3326366,3 wins & 3 nominations.,0,0,0,0,0,0,0,0,3,3
+tt3330908,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3334794,8 wins & 3 nominations.,0,0,0,0,0,0,0,0,8,3
+tt3336690,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3340712,6 wins & 25 nominations.,0,0,0,0,0,0,0,0,6,25
+tt3342592,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3345346,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3345466,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3350376,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt3353690,2 wins & 16 nominations.,0,0,0,0,0,0,0,0,2,16
+tt3355944,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3358020,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3363888,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3368706,1 win & 5 nominations.,0,0,0,0,0,0,0,0,1,5
+tt3370324,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3374966,15 wins & 20 nominations.,0,0,0,0,0,0,0,0,15,20
+tt3376720,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3385854,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3386144,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt3391114,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
+tt3393070,1 win.,0,0,0,0,0,0,0,0,1,0
 tt3395184,4 wins & 10 nominations.,0,0,0,0,0,0,0,0,4,10
+tt3398228,2 wins & 6 nominations.,0,0,0,0,0,0,0,0,2,6
+tt3398876,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3401190,4 wins & 4 nominations.,0,0,0,0,0,0,0,0,4,4
+tt3402834,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt3415374,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3426110,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3433358,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt3438434,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3438660,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3444938,Won 2 Primetime Emmys. Another 7 wins & 23 nominations.,2,0,0,0,0,0,0,0,9,23
+tt3449314,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt3450290,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt3452948,7 wins & 9 nominations.,0,0,0,0,0,0,0,0,7,9
+tt3456160,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3457798,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt3458196,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3458776,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
+tt3464018,6 wins.,0,0,0,0,0,0,0,0,6,0
+tt3464886,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt3468914,9 wins & 5 nominations.,0,0,0,0,0,0,0,0,9,5
+tt3469682,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3469918,6 wins & 7 nominations.,0,0,0,0,0,0,0,0,6,7
+tt3470148,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3474788,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3475002,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt3477042,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3477516,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3478564,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3481544,5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt3487356,Nominated for 4 Primetime Emmys. Another 18 wins & 40 nominations.,0,0,0,0,4,0,0,0,18,44
+tt3497284,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt3498494,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3500536,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3501900,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3502172,Won 2 Golden Globes. Another 3 wins & 3 nominations.,0,0,2,0,0,0,0,0,5,3
+tt3502248,Nominated for 1 Primetime Emmy. Another 4 nominations.,0,0,0,0,1,0,0,0,0,5
+tt3506970,5 wins.,0,0,0,0,0,0,0,0,5,0
+tt3508850,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt3511812,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3519272,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3522566,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3522584,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3523654,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3525428,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3528756,8 wins.,0,0,0,0,0,0,0,0,8,0
+tt3534636,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3540354,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3543084,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3544556,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3548092,3 wins & 2 nominations.,0,0,0,0,0,0,0,0,3,2
+tt3556544,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3558832,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3560662,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3560768,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3561828,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3562082,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3562626,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3566726,Won 1 Golden Globe. Another 12 wins & 39 nominations.,0,0,1,0,0,0,0,0,13,39
+tt3566812,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3567224,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3568088,3 wins & 5 nominations.,0,0,0,0,0,0,0,0,3,5
+tt3572756,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3574904,6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt3575500,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3582084,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3583000,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3588278,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3592718,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3596274,6 wins & 2 nominations.,0,0,0,0,0,0,0,0,6,2
+tt3606874,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3610884,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3613470,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3620544,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3621796,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3640766,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3644570,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3646188,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3648438,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3650650,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3652808,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3657420,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3662228,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3669058,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3671042,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt3672398,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3673430,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3674184,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3674654,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3691930,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt3693996,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3696720,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3696774,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt3696908,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3697996,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3710814,8 nominations.,0,0,0,0,0,0,0,0,0,8
 tt3713166,3 wins & 2 nominations.,0,0,0,0,0,0,0,0,3,2
+tt3717068,15 wins & 6 nominations.,0,0,0,0,0,0,0,0,15,6
+tt3721942,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3728222,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3733650,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3734106,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3742982,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3753000,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3758364,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3759416,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3762742,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3763828,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3794066,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt3796388,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3797128,4 wins & 7 nominations.,0,0,0,0,0,0,0,0,4,7
+tt3801438,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt3801878,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3807022,5 wins & 11 nominations.,0,0,0,0,0,0,0,0,5,11
+tt3819504,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3824086,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3825328,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3828904,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3830420,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3831868,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3832432,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3839252,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3843108,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3845742,1 win & 14 nominations.,0,0,0,0,0,0,0,0,1,14
+tt3858500,4 wins & 1 nomination.,0,0,0,0,0,0,0,0,4,1
+tt3885120,5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt3885408,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3887800,3 wins & 1 nomination.,0,0,0,0,0,0,0,0,3,1
+tt3900206,8 wins & 15 nominations.,0,0,0,0,0,0,0,0,8,15
+tt3904078,4 wins & 1 nomination.,0,0,0,0,0,0,0,0,4,1
+tt3904994,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt3914520,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3918650,Nominated for 1 Primetime Emmy. Another 1 nomination.,0,0,0,0,1,0,0,0,0,2
+tt3919200,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt3920548,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3921454,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3923034,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3951130,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3954878,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3955672,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt3957718,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3957986,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt3962354,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt3971136,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3974720,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3997238,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3998324,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt4004118,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt4043864,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
+tt4044030,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4044840,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4044970,4 wins & 5 nominations.,0,0,0,0,0,0,0,0,4,5
+tt4047118,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4047752,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4048256,3 wins & 7 nominations.,0,0,0,0,0,0,0,0,3,7
+tt4052994,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
+tt4065316,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4071572,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4073732,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4080028,4 wins & 2 nominations.,0,0,0,0,0,0,0,0,4,2
+tt4086030,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
+tt4093636,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4094242,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt4108554,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4109934,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt4117294,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt4120018,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt4127474,6 wins & 5 nominations.,0,0,0,0,0,0,0,0,6,5
+tt4132736,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4134838,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt4147830,Nominated for 1 Primetime Emmy. Another 1 win & 6 nominations.,0,0,0,0,1,0,0,0,1,7
+tt4151090,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4155816,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4158952,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt4163486,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4167782,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4168532,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
+tt4168666,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt4183192,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4203318,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt4211564,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4241648,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4247362,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4254596,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4255248,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4265334,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt4267472,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4269776,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4274964,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4287706,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4290772,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4290782,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4295280,1 win & 11 nominations.,0,0,0,0,0,0,0,0,1,11
+tt4316202,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4327600,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4331630,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt4346372,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4362372,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4364060,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4364102,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4366000,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4369334,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4373328,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4406352,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4408152,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt4458594,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4460588,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4460848,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4510896,4 wins & 7 nominations.,0,0,0,0,0,0,0,0,4,7
+tt4529436,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4532586,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt4602352,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4667138,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4839806,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4893200,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4985332,3 wins & 4 nominations.,0,0,0,0,0,0,0,0,3,4
+tt5056454,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5182352,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5223872,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5245278,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0038650,Nominated for 5 Oscars. Another 6 wins & 1 nomination.,0,0,0,0,0,5,0,0,6,6
+tt0090728,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt0092272,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0092272,1 win.,0,0,0,0,0,0,0,0,1,0
+tt0092455,Won 18 Primetime Emmys. Another 16 wins & 60 nominations.,18,0,0,0,0,0,0,0,34,60
+tt0112178,Won 7 Primetime Emmys. Another 25 wins & 84 nominations.,7,0,0,0,0,0,0,0,32,84
+tt0120974,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt0145487,Nominated for 2 Oscars. Another 14 wins & 56 nominations.,0,0,0,0,0,2,0,0,14,58
 tt0235198,4 wins & 2 nominations.,0,0,0,0,0,0,0,0,4,2
-tt0330793,1 win & 5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt0330793,1 win & 5 nominations.,0,0,0,0,0,0,0,0,1,5
 tt0369610,6 wins & 53 nominations.,0,0,0,0,0,0,0,0,6,53
 tt0478970,Nominated for 1 BAFTA Film Award. Another 2 wins & 28 nominations.,0,0,0,0,0,0,0,1,2,29
 tt0482629,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt0926732,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
 tt1051904,3 nominations.,0,0,0,0,0,0,0,0,0,3
 tt1133985,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
-tt1179933,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt1211837,1 win.,0,0,0,0,0,0,0,0,0,0
+tt1179933,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1211837,1 win.,0,0,0,0,0,0,0,0,1,0
 tt1289401,4 nominations.,0,0,0,0,0,0,0,0,0,4
 tt1340138,7 nominations.,0,0,0,0,0,0,0,0,0,7
 tt1386697,2 wins & 6 nominations.,0,0,0,0,0,0,0,0,2,6
 tt1431045,4 wins & 11 nominations.,0,0,0,0,0,0,0,0,4,11
-tt1628841,1 win & 2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt1628841,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
 tt1661199,Nominated for 1 Oscar. Another 8 wins & 28 nominations.,0,0,0,0,0,1,0,0,8,29
 tt1679335,2 nominations.,0,0,0,0,0,0,0,0,0,2
-tt1700841,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt1881002,1 win & 3 nominations.,0,0,0,0,0,0,0,0,0,3
-tt1883367,1 win & 3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt1691307,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1691307,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1700841,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt1734579,1 win & 8 nominations.,0,0,0,0,0,0,0,0,1,8
+tt1751105,17 wins & 32 nominations.,0,0,0,0,0,0,0,0,17,32
+tt1881002,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt1883367,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
 tt1951266,17 wins & 28 nominations.,0,0,0,0,0,0,0,0,17,28
 tt1964418,2 wins & 16 nominations.,0,0,0,0,0,0,0,0,2,16
 tt1974419,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
 tt1979388,Nominated for 1 Golden Globe. Another 5 wins & 39 nominations.,0,0,0,0,0,0,1,0,5,40
 tt1985949,2 nominations.,0,0,0,0,0,0,0,0,0,2
-tt2049543,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt1986202,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt2049543,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2072230,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt2096673,Won 1 Oscar. Another 91 wins & 95 nominations.,0,1,0,0,0,0,0,0,92,95
 tt2101383,3 wins & 3 nominations.,0,0,0,0,0,0,0,0,3,3
 tt2118624,5 wins & 10 nominations.,0,0,0,0,0,0,0,0,5,10
+tt2124787,1 win.,0,0,0,0,0,0,0,0,1,0
 tt2126355,10 nominations.,0,0,0,0,0,0,0,0,0,10
+tt2165765,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2170369,1 win.,0,0,0,0,0,0,0,0,1,0
 tt2224026,2 wins & 8 nominations.,0,0,0,0,0,0,0,0,2,8
+tt2226321,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
 tt2267968,2 nominations.,0,0,0,0,0,0,0,0,0,2
-tt2268016,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,0
+tt2268016,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
 tt2277860,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
-tt2279373,1 win & 6 nominations.,0,0,0,0,0,0,0,0,0,6
-tt2293640,Nominated for 1 BAFTA Film Award. Another 1 win & 18 nominations.,0,0,0,0,0,0,0,1,0,19
-tt2304933,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2309260,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt2279373,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt2293640,Nominated for 1 BAFTA Film Award. Another 1 win & 18 nominations.,0,0,0,0,0,0,0,1,1,19
+tt2304933,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2309260,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt2322441,Nominated for 1 Oscar. Another 9 wins & 18 nominations.,0,0,0,0,0,1,0,0,9,19
+tt2353030,1 win.,0,0,0,0,0,0,0,0,1,0
 tt2379713,Won 1 Oscar. Another 7 wins & 29 nominations.,0,1,0,0,0,0,0,0,8,29
 tt2381111,Nominated for 3 Oscars. Another 32 wins & 141 nominations.,0,0,0,0,0,3,0,0,32,144
 tt2381249,2 wins & 18 nominations.,0,0,0,0,0,0,0,0,2,18
 tt2395427,5 wins & 41 nominations.,0,0,0,0,0,0,0,0,5,41
-tt2452042,Nominated for 1 Golden Globe. Another 1 win & 44 nominations.,0,0,0,0,0,0,1,0,0,45
+tt2415458,7 wins & 14 nominations.,0,0,0,0,0,0,0,0,7,14
+tt2442080,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt2450258,2 wins & 10 nominations.,0,0,0,0,0,0,0,0,2,10
+tt2452042,Nominated for 1 Golden Globe. Another 1 win & 44 nominations.,0,0,0,0,0,0,1,0,1,45
 tt2473510,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt2488496,Nominated for 5 Oscars. Another 47 wins & 106 nominations.,0,0,0,0,0,5,0,0,47,111
-tt2510894,1 win & 10 nominations.,0,0,0,0,0,0,0,0,0,10
-tt2543164,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt2492296,Won 1 Golden Globe. Another 2 wins & 17 nominations.,0,0,1,0,0,0,0,0,3,17
+tt2510894,1 win & 10 nominations.,0,0,0,0,0,0,0,0,1,10
+tt2543164,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2553928,2 wins.,0,0,0,0,0,0,0,0,2,0
 tt2554274,6 wins & 33 nominations.,0,0,0,0,0,0,0,0,6,33
-tt2555736,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt2555736,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt2567026,2 nominations.,0,0,0,0,0,0,0,0,0,2
 tt2582782,3 nominations.,0,0,0,0,0,0,0,0,0,3
-tt2649554,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2674426,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2702724,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt2709768,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt2649554,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2674426,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt2677216,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2698966,6 wins.,0,0,0,0,0,0,0,0,6,0
+tt2702724,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2709768,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
 tt2719848,7 nominations.,0,0,0,0,0,0,0,0,0,7
 tt2749282,2 wins.,0,0,0,0,0,0,0,0,2,0
-tt2802136,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt2788432,Won 9 Primetime Emmys. Another 17 wins & 17 nominations.,9,0,0,0,0,0,0,0,26,17
+tt2799974,1 win.,0,0,0,0,0,0,0,0,1,0
+tt2802136,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2842732,1 win.,0,0,0,0,0,0,0,0,1,0
 tt2872750,Nominated for 1 Oscar. Another 2 wins & 49 nominations.,0,0,0,0,0,1,0,0,2,50
+tt2879552,5 nominations.,0,0,0,0,0,0,0,0,0,5
+tt2891574,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt2899142,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt2948356,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
-tt2975590,1 win & 7 nominations.,0,0,0,0,0,0,0,0,0,7
-tt2992000,1 win & 2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt2975590,1 win & 7 nominations.,0,0,0,0,0,0,0,0,1,7
+tt2992000,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt3032476,Nominated for 1 Golden Globe. Another 10 wins & 53 nominations.,0,0,0,0,0,0,1,0,10,54
+tt3032968,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3037336,5 nominations.,0,0,0,0,0,0,0,0,0,5
 tt3040964,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
-tt3369806,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt3087864,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3132100,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3132632,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3139482,3 wins & 4 nominations.,0,0,0,0,0,0,0,0,3,4
+tt3148266,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt3148552,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt3169770,8 wins & 22 nominations.,0,0,0,0,0,0,0,0,8,22
+tt3180912,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3185602,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3215364,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3219554,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3230454,Nominated for 5 Primetime Emmys. Another 12 nominations.,0,0,0,0,5,0,0,0,0,17
+tt3257638,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt3262990,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3315386,Nominated for 7 Primetime Emmys. Another 1 win & 26 nominations.,0,0,0,0,7,0,0,0,1,33
+tt3322312,Nominated for 5 Primetime Emmys. Another 2 wins & 11 nominations.,0,0,0,0,5,0,0,0,2,16
+tt3339966,Nominated for 11 Primetime Emmys. Another 7 wins & 26 nominations.,0,0,0,0,11,0,0,0,7,37
+tt3355142,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt3369624,3 wins & 1 nomination.,0,0,0,0,0,0,0,0,3,1
+tt3369806,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt3385516,2 nominations.,0,0,0,0,0,0,0,0,0,2
-tt3416828,1 win.,0,0,0,0,0,0,0,0,0,0
+tt3395274,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3395582,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3416828,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3442634,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3444616,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3468798,Won 1 Primetime Emmy. Another 1 nomination.,1,0,0,0,0,0,0,0,1,1
+tt3475734,11 nominations.,0,0,0,0,0,0,0,0,0,11
+tt3488298,Nominated for 3 Golden Globes. Another 9 wins & 50 nominations.,0,0,0,0,0,0,3,0,9,53
 tt3498820,2 wins & 7 nominations.,0,0,0,0,0,0,0,0,2,7
-tt3499096,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt3499096,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3508050,6 nominations.,0,0,0,0,0,0,0,0,0,6
 tt3518012,5 wins & 26 nominations.,0,0,0,0,0,0,0,0,5,26
-tt3567288,1 win & 10 nominations.,0,0,0,0,0,0,0,0,0,10
-tt3591436,4 wins & 1 nomination.,0,0,0,0,0,0,0,0,4,0
-tt3631112,1 win.,0,0,0,0,0,0,0,0,0,0
+tt3520022,11 wins.,0,0,0,0,0,0,0,0,11,0
+tt3520702,Nominated for 1 Golden Globe. Another 1 win & 10 nominations.,0,0,0,0,0,0,1,0,1,11
+tt3554580,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
+tt3567288,1 win & 10 nominations.,0,0,0,0,0,0,0,0,1,10
+tt3574152,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3581932,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3591436,4 wins & 1 nomination.,0,0,0,0,0,0,0,0,4,1
+tt3596178,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt3598496,Nominated for 3 Primetime Emmys. Another 2 wins & 7 nominations.,0,0,0,0,3,0,0,0,2,10
+tt3630144,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3631112,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3642918,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3644258,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3674910,Won 1 Primetime Emmy. Another 1 win & 13 nominations.,1,0,0,0,0,0,0,0,2,13
+tt3677742,Won 4 Primetime Emmys. Another 1 win & 6 nominations.,4,0,0,0,0,0,0,0,5,6
+tt3688406,5 wins & 1 nomination.,0,0,0,0,0,0,0,0,5,1
+tt3698558,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt3699692,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
 tt3704050,3 wins & 19 nominations.,0,0,0,0,0,0,0,0,3,19
 tt3705412,8 wins & 6 nominations.,0,0,0,0,0,0,0,0,8,6
-tt3774694,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt3720724,5 wins & 8 nominations.,0,0,0,0,0,0,0,0,5,8
+tt3750942,1 win & 7 nominations.,0,0,0,0,0,0,0,0,1,7
+tt3757982,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3768572,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3774694,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt3831000,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt3833746,6 nominations.,0,0,0,0,0,0,0,0,0,6
+tt3833822,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3838728,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt3848126,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt3850590,2 wins & 8 nominations.,0,0,0,0,0,0,0,0,2,8
-tt3882082,1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt3910602,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt3855240,1 win & 6 nominations.,0,0,0,0,0,0,0,0,1,6
+tt3872918,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3878542,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3882082,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3882928,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3893280,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3901256,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3910602,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3917316,7 nominations.,0,0,0,0,0,0,0,0,0,7
+tt3946090,4 wins & 6 nominations.,0,0,0,0,0,0,0,0,4,6
 tt3949660,2 nominations.,0,0,0,0,0,0,0,0,0,2
-tt3991412,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt3951082,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3970806,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3975510,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt3986586,1 win.,0,0,0,0,0,0,0,0,1,0
+tt3991412,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4008758,6 wins & 5 nominations.,0,0,0,0,0,0,0,0,6,5
+tt4016454,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
+tt4035268,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
 tt4046784,2 wins & 5 nominations.,0,0,0,0,0,0,0,0,2,5
-tt4085084,1 win & 4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt4067076,Nominated for 3 Primetime Emmys. Another 12 nominations.,0,0,0,0,3,0,0,0,0,15
+tt4085044,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt4085084,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt4086032,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt4088848,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt4094300,Won 1 Golden Globe. Another 4 wins & 9 nominations.,0,0,1,0,0,0,0,0,5,9
+tt4108134,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt4113846,4 wins & 1 nomination.,0,0,0,0,0,0,0,0,4,1
+tt4130180,5 wins & 3 nominations.,0,0,0,0,0,0,0,0,5,3
+tt4132692,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4135896,3 wins & 3 nominations.,0,0,0,0,0,0,0,0,3,3
+tt4144206,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt4145384,Nominated for 1 Golden Globe. Another 3 wins & 8 nominations.,0,0,0,0,0,0,1,0,3,9
+tt4146128,3 nominations.,0,0,0,0,0,0,0,0,0,3
+tt4148744,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt4158110,Won 2 Golden Globes. Another 15 wins & 26 nominations.,0,0,2,0,0,0,0,0,17,26
 tt4163020,2 nominations.,0,0,0,0,0,0,0,0,0,2
-tt4191054,1 win & 4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt4165472,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4189022,3 wins & 5 nominations.,0,0,0,0,0,0,0,0,3,5
+tt4191054,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
 tt4196450,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt4224476,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4231486,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4262174,3 wins & 3 nominations.,0,0,0,0,0,0,0,0,3,3
+tt4262918,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt4264426,7 wins & 3 nominations.,0,0,0,0,0,0,0,0,7,3
-tt4379728,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt4265396,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt4273170,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4284010,Nominated for 1 Oscar. Another 5 wins & 15 nominations.,0,0,0,0,0,1,0,0,5,16
+tt4286742,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt4288182,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4292420,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt4295140,Nominated for 4 Primetime Emmys. Another 1 win & 1 nomination.,0,0,0,0,4,0,0,0,1,5
+tt4312140,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4324274,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4329800,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt4341996,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4352442,4 wins & 12 nominations.,0,0,0,0,0,0,0,0,4,12
+tt4355418,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt4368568,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt4370596,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4374208,Nominated for 1 Primetime Emmy. Another 1 win & 5 nominations.,0,0,0,0,1,0,0,0,1,6
+tt4379728,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4380324,2 wins & 4 nominations.,0,0,0,0,0,0,0,0,2,4
+tt4385026,7 wins & 6 nominations.,0,0,0,0,0,0,0,0,7,6
+tt4394104,3 wins & 1 nomination.,0,0,0,0,0,0,0,0,3,1
+tt4394392,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt4404238,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt4411288,3 wins & 9 nominations.,0,0,0,0,0,0,0,0,3,9
+tt4413794,9 wins & 3 nominations.,0,0,0,0,0,0,0,0,9,3
+tt4419524,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4422656,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt4424812,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt4433966,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4437054,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt4441280,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4444762,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt4450396,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt4457140,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4465444,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt4466648,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt4467202,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4469606,6 wins & 4 nominations.,0,0,0,0,0,0,0,0,6,4
+tt4471416,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt4471636,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4474344,1 win & 4 nominations.,0,0,0,0,0,0,0,0,1,4
+tt4483460,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4491640,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4503900,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4507490,5 wins.,0,0,0,0,0,0,0,0,5,0
+tt4519366,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4532764,5 wins & 7 nominations.,0,0,0,0,0,0,0,0,5,7
+tt4536736,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4537842,Nominated for 2 Primetime Emmys. Another 3 nominations.,0,0,0,0,2,0,0,0,0,5
+tt4543962,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4544336,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt4548732,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt4551318,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4569688,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4576958,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt4587946,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4589186,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4590262,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4591680,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4604692,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4606734,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4622776,Nominated for 1 Primetime Emmy. Another 1 win.,0,0,0,0,1,0,0,0,1,1
+tt4623246,1 win.,0,0,0,0,0,0,0,0,1,0
 tt4624424,2 wins.,0,0,0,0,0,0,0,0,2,0
-tt4731008,1 win.,0,0,0,0,0,0,0,0,0,0
+tt4635922,6 wins & 6 nominations.,0,0,0,0,0,0,0,0,6,6
+tt4636204,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt4645614,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt4658612,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4671092,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4671682,3 wins & 1 nomination.,0,0,0,0,0,0,0,0,3,1
+tt4677742,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4683668,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4699982,1 win & 7 nominations.,0,0,0,0,0,0,0,0,1,7
+tt4715356,5 wins & 13 nominations.,0,0,0,0,0,0,0,0,5,13
+tt4715688,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4729660,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4729990,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4731008,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4741306,3 wins & 2 nominations.,0,0,0,0,0,0,0,0,3,2
+tt4742644,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4743688,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4747380,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4768764,3 wins & 22 nominations.,0,0,0,0,0,0,0,0,3,22
+tt4771836,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4781886,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4801328,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4806102,2 wins.,0,0,0,0,0,0,0,0,2,0
+tt4817808,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4819510,1 nomination.,0,0,0,0,0,0,0,0,0,1
 tt4824302,2 nominations.,0,0,0,0,0,0,0,0,0,2
-tt4872078,1 win & 1 nomination.,0,0,0,0,0,0,0,0,0,0
-tt4981636,1 nomination.,0,0,0,0,0,0,0,0,0,0
+tt4833952,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4844752,1 win & 3 nominations.,0,0,0,0,0,0,0,0,1,3
+tt4868972,2 wins & 3 nominations.,0,0,0,0,0,0,0,0,2,3
+tt4872078,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt4872192,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4881032,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt4881548,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt4881616,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt4882192,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4898890,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4901356,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4907044,1 win.,0,0,0,0,0,0,0,0,1,0
+tt4908644,Nominated for 1 Oscar. Another 1 win & 3 nominations.,0,0,0,0,0,1,0,0,1,4
+tt4918278,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt4936064,1 win & 7 nominations.,0,0,0,0,0,0,0,0,1,7
+tt4938416,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4938484,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt4938930,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt4939866,2 wins & 7 nominations.,0,0,0,0,0,0,0,0,2,7
+tt4955294,Nominated for 1 Oscar. Another 1 nomination.,0,0,0,0,0,1,0,0,0,2
+tt4964772,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4969466,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4981636,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt4986278,1 win & 10 nominations.,0,0,0,0,0,0,0,0,1,10
+tt5006180,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt5023666,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5037290,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5046534,5 wins & 10 nominations.,0,0,0,0,0,0,0,0,5,10
+tt5088794,4 wins & 5 nominations.,0,0,0,0,0,0,0,0,4,5
+tt5097050,4 wins.,0,0,0,0,0,0,0,0,4,0
+tt5104362,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5123004,1 win & 2 nominations.,0,0,0,0,0,0,0,0,1,2
+tt5129156,3 wins.,0,0,0,0,0,0,0,0,3,0
+tt5159204,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5167226,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5168192,6 wins.,0,0,0,0,0,0,0,0,6,0
+tt5173046,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5180052,2 wins & 7 nominations.,0,0,0,0,0,0,0,0,2,7
+tt5193358,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5198004,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5202850,4 nominations.,0,0,0,0,0,0,0,0,0,4
+tt5231798,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5235348,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5240824,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5257770,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5258040,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5258442,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5275830,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5275866,5 wins.,0,0,0,0,0,0,0,0,5,0
+tt5285494,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5294966,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt5347932,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5354588,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5421684,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5424802,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5425704,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5437970,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5459436,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt5476474,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5477402,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt5518022,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt5563254,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt5591342,2 wins & 2 nominations.,0,0,0,0,0,0,0,0,2,2
+tt5643768,2 wins & 1 nomination.,0,0,0,0,0,0,0,0,2,1
+tt5659864,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5707408,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5719456,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5721552,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt5724358,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5754426,1 win.,0,0,0,0,0,0,0,0,1,0
+tt5766968,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5891860,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt5895570,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt5986050,2 nominations.,0,0,0,0,0,0,0,0,0,2
+tt5999174,1 nomination.,0,0,0,0,0,0,0,0,0,1
+tt6002956,1 win & 1 nomination.,0,0,0,0,0,0,0,0,1,1
+tt6054290,7 nominations.,0,0,0,0,0,0,0,0,0,7
